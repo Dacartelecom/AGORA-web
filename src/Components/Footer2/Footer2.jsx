@@ -28,8 +28,8 @@ export default function Footer2() {
           <div className='Telefono'> 
           <p><CallCalling className='logo' size="30" color="#FFFFFF"/></p><h4 >TELÉFONO</h4>
           </div>
-            <a className='LinkF' href="tel:923226771">
-              <p>+51 923 226 771</p>
+            <a className='LinkF' href="tel:958236886">
+              <p>+51 958 236 886</p>
             </a>
           </div>
           <div className='sb_footer-links_div'>
